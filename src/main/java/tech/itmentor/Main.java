@@ -1,4 +1,4 @@
-package org.example;
+package tech.itmentor;
 
 public class Main {
     public static void main(String[] args) {
